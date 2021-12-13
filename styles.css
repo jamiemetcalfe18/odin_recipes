@@ -1,1 +1,17 @@
 /* https://www.asweetpeachef.com/banana-protein-shake/ page got recipies frm */
+
+.main {
+  background-color: lightgreen;
+}
+
+.bshake {
+  background-color: lightyellow;
+}
+
+.bbshake {
+  background-color: lightblue;
+}
+
+.sshake {
+  background-color: lightcoral;
+} 
