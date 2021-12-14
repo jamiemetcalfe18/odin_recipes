@@ -36,7 +36,9 @@ main {
 
 ul {
   list-style: none;
-  
+}
+ol {
+  list-style: none;
 }
 
 li {
