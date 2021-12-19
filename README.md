@@ -5,4 +5,5 @@ I found the initial assignment quite simple, given this is what my class had cov
 
 I may come back and make some more edits and changes in the future, but for now I am happy with it!
 
--Currently adding back buttons to navigate to the home page better.
+Started on: 12/17/2021
+Last Modified: 12/18/2021
