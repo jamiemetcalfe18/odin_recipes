@@ -1,4 +1,7 @@
-/* https://www.asweetpeachef.com/banana-protein-shake/ page got recipies frm */
+* {
+  margin: 0;
+  padding: 0;
+}
 
 /* bg colors*/
 .main {
@@ -132,6 +135,7 @@ img {
 
 footer {
   text-align: center;
+  margin: 30px;
 }
 
 .home {
