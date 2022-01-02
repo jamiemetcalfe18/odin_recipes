@@ -9,10 +9,10 @@ I found the initial assignment quite simple, given this is what my class had cov
 I may come back and make some more edits and changes in the future, but for now I am happy with it!
 
 ## What I Learned
--How to link to pages and images from a page inside a folder.
--Buttons and their different options.
--Resizing images
 
-## Modifications:
--Started on: 12/17/2021
--Last modified: 12/28/2021
+-How to link to pages and images from a page inside a folder.
+
+-Buttons and their different options.
+
+-Resizing images
+ 
